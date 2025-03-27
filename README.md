@@ -1,6 +1,6 @@
 # Insight DRE - Power BI
 
-Este projeto tem como objetivo analisar a **Demonstração do Resultado do Exercício (DRE)** de uma empresa utilizando o Power BI, a fim de fornecer insights financeiros valiosos sobre a receita, custos, despesas e lucratividade. Através dessa análise, é possível obter uma visão clara do desempenho financeiro da empresa, incluindo a evolução da receita, deduções, custos e lucro líquido.
+Este projeto analisa a **Demonstração do Resultado do Exercício (DRE)** de uma empresa utilizando o Power BI, para fornecer insights financeiros fundamentais sobre a receita, custos, despesas e lucratividade. Por meio dos resultados da análise, é possível ter uma visão clara do desempenho financeiro da empresa, incluindo a evolução da receita, deduções, custos e lucro líquido.
 
 ## **Visão Geral**
 
@@ -26,10 +26,10 @@ Este projeto tem como objetivo analisar a **Demonstração do Resultado do Exerc
   - A empresa apresenta um lucro líquido considerável, o que reflete uma boa margem de lucro após deduções, custos e despesas.
 
 ## **Conclusão:**
-A análise da DRE mostra que a empresa possui um desempenho financeiro **positivo e saudável**, com uma **margem de lucro sólida**. A maior parte da receita é gerada pelas vendas de produtos, mas as **outras receitas** também têm uma contribuição relevante. Além disso, os custos, despesas e impostos são razoavelmente controlados, permitindo uma **boa rentabilidade**. O **número de devoluções** e as **taxas de serviço** são menores, o que também é um indicativo positivo para a rentabilidade da empresa.
+A análise da DRE mostra que a empresa possui um desempenho financeiro **positivo e saudável**, com uma margem de lucro sólida. A maior parte da receita é gerada pelas vendas de produtos, mas as outras receitas também têm uma contribuição relevante. Além disso, os custos, despesas e impostos são razoavelmente controlados, o que permite uma boa rentabilidade. O número de devoluções e as taxas de serviço são menores, o que também é um indicativo positivo para a rentabilidade da empresa.
 
 ## **Objetivo do Projeto:**
-Este projeto visa oferecer uma visão interativa e detalhada sobre a saúde financeira da empresa, permitindo que tomadores de decisão possam entender melhor as áreas que estão gerando lucro e as que precisam de melhorias. A visualização das métricas chave permite tomar decisões mais informadas para o crescimento sustentável da empresa.
+Este projeto oferece uma visão interativa e detalhada sobre a saúde financeira da empresa e permite que tomadores de decisão possam entender melhor as áreas que estão gerando lucro e as que precisam de melhorias. Com isso, é possível mudar rotas para um crescimento sustentável da empresa.
 
 ## **Tecnologias Utilizadas:**
 - **Power BI**: Utilizado para criar dashboards com fórmulas DAX e relatórios interativos, permitindo análise dinâmica dos dados financeiros.
@@ -51,4 +51,3 @@ Você pode visualizar o GIF do insight gerado [aqui](./gif/DRE.gif).
 
 ### **Acesse o Power BI**:
 Veja a visualização interativa do insight DRE diretamente no Power BI:  [Power BI - Insight DRE](https://app.powerbi.com/view?r=eyJrIjoiZWVhNzFmM2EtMmU1My00NDdiLTk5ZDEtZGQzNWNmZjUzNTkxIiwidCI6IjAwMWVkMTQ5LWQ3NjEtNGRjNS05ODMwLTUyYTc5ZjU1MmU4NCJ9)
-
