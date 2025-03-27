@@ -1,0 +1,10 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar a pasta .git (não deve ser incluída)
+.git/
+
+# Não ignorar as pastas 'git', 'base' e 'layout'
+!git/
+!base/
+!layout/
